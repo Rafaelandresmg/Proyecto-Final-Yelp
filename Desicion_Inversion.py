@@ -173,7 +173,7 @@ if boton :
     # Menor a 10
     promedio_estrellas_por_ciudad = merge1.groupby('name')['stars'].mean().mean()
         
-    if cantidad_estrellas >= 0.9 * promedio_estrellas_por_ciudad:
+    if cantidad_estrellas >= 0.95 * promedio_estrellas_por_ciudad:
         recomendacion = True
     else:
         recomendacion = False
