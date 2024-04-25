@@ -14,8 +14,6 @@ Nuestro objetivo principal es descubrir patrones y tendencias en las reseñas de
 
 _Este análisis de datos nos permite proporcionar un análisis detallado basado en los datos recopilados, brindando asesoría y recomendaciones a posibles Dueños de Negocios interesados en este proyecto. Esta información resultaría sumamente valiosa para la toma de decisiones estratégicas y para mejorar la imagen y reputación del negocio consultado._
 
-<img src="" alt="Nuestro TEAM" width="600" height="210">
-
 
 ### **Contexto:**
 
@@ -80,7 +78,7 @@ La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural 
 
 **5-** _Visualización y reportes con Google Data Looker conectado desde BigQuery_
 
-<img src="src/images/pipelines.png" alt="Nuestro TEAM" width="720" height="360">
+<img src="[src/images/pipelines.png](https://github.com/FacuSB/PF_Grupal/blob/main/images/Pipeline.jpg)" alt="Nuestro TEAM" width="720" height="360">
   
 ### **Diagrama de Gantt**
 <p align='center'>
