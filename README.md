@@ -52,11 +52,11 @@ La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural 
 
 ## **Componentes del Producto** 🚀
 
-- [Tablero de Métricas]()
+- [Tablero de Métricas](https://universidaddelacosta-my.sharepoint.com/:u:/g/personal/jsanchez87_cuc_edu_co/Ec57E3DO__1FufQsjNl_45oBNAJ76ujU9800d7CatjCM5Q?e=ZPa3dn)
 
   _Tablero interactivo que muestra las métricas clave de manera visualmente atractiva y fácil de entender, permitiendo a los usuarios monitorear y analizar de manera efectiva el desempeño de los negocio en función de datos relevantes._
 
-  [Vista Previa del Tablero]()
+  [Vista Previa del Tablero](https://github.com/FacuSB/PF_Grupal/blob/main/images/DASHBOARD%20GENERAL.png)
 
 - [Modelos de Machine Learning ]()
 
