@@ -1,4 +1,4 @@
-<img src="" width="120" height="82">
+<img src="https://github.com/FacuSB/PF_Grupal/blob/main/images/Data_FIve-transformed%20(1).png" width="120" height="82">
 
 **Consultora de datos**
 
