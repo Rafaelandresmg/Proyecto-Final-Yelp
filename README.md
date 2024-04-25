@@ -52,18 +52,18 @@ La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural 
 
 ## **Componentes del Producto** 🚀
 
-- [Tablero de Métricas]()
+- [Tablero de Métricas](https://universidaddelacosta-my.sharepoint.com/:u:/g/personal/jsanchez87_cuc_edu_co/Ec57E3DO__1FufQsjNl_45oBNAJ76ujU9800d7CatjCM5Q?e=ZPa3dn)
 
   _Tablero interactivo que muestra las métricas clave de manera visualmente atractiva y fácil de entender, permitiendo a los usuarios monitorear y analizar de manera efectiva el desempeño de los negocio en función de datos relevantes._
 
-  [Vista Previa del Tablero]()
+  [Vista Previa del Tablero](https://github.com/FacuSB/PF_Grupal/blob/main/images/DASHBOARD%20GENERAL.png)
 
-- [Modelos de Machine Learning ]()
+- [Modelos de Machine Learning ](https://pf-grupal-desicion-inversion-nv9i1p.streamlit.app/)
 
   **Modelo de Machine Learning para predecir el rating futuro de los negocios:** _Desarrollamos un modelo de Machine Learning que utiliza técnicas de análisis de datos para predecir el rating que los negocios obtendrán en el futuro. Proporciona una estimación precisa del rendimiento esperado de un negocio en términos de calificaciones y reseñas._
 
   
-  [Vista Previa de los Modelos]()
+  [Vista Previa de los Modelos](https://github.com/FacuSB/PF_Grupal/blob/main/images/StreamliteML.png)
 
 ---
 
@@ -137,7 +137,7 @@ README de GitHub.*
 ## **Documentos adicionales en este proyecto** 📚
 
 - [Informes de Cada Sprint](https://github.com/FacuSB/PF_Grupal/tree/main/Informes%20Sprints)
-- [Diccionario de datos]()
+- [Diccionario de datos](https://github.com/FacuSB/PF_Grupal/blob/main/CarpertasETL/Diccionario_de_Datos%20(1).ipynb)
 - [Archivo de ETL](https://github.com/FacuSB/PF_Grupal/tree/main/CarpertasETL)
 - [Notebook Modelo de Prediccion](https://github.com/FacuSB/PF_Grupal/tree/main/ModeloML1)
 - [Notebook Exploración de datos para Dashboard](https://github.com/FacuSB/PF_Grupal/blob/main/CarpertasETL/EDA_InicilalTrabajo.ipynb)
