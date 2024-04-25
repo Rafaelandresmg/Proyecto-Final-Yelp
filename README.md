@@ -135,7 +135,7 @@ README de GitHub.*
 
 ## **Documentos adicionales en este proyecto** 📚
 
-- [Informes de Cada Sprint]()
+- [Informes de Cada Sprint](https://github.com/FacuSB/PF_Grupal/tree/main/Informes%20Sprints)
 - [Diccionario de datos]()
 - [Archivo de ETL]()
 - [Notebook Modelo de Prediccion]()
