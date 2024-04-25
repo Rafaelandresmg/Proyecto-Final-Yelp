@@ -82,7 +82,7 @@ La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural 
 
   
 ### **Nuestro Pipeline**
-<img src="https://github.com/FacuSB/PF_Grupal/blob/main/images/Pipeline.jpg" alt="Nuestro Pipeline" width="720" height="360">
+<img src="https://github.com/FacuSB/PF_Grupal/blob/main/images/Pipe%20LIne.jpg" alt="Nuestro Pipeline" width="720" height="360">
 	
 ### **Stack Tecnológico:**
 - *Limpieza y Transformación de Datos:
