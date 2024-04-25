@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github.com/FacuSB/PF_Grupal/blob/main/images/Data_FIve-transformed%20(1).png"  height=300>
-</p>
+<img src="https://github.com/FacuSB/PF_Grupal/blob/main/images/Data_FIve-transformed%20(1).png" width="200" height="200">
 
 **Consultora de datos**
 
