@@ -8,11 +8,11 @@
 
 ## **¿Quienes Somos?** 👥
 
-_Somos Data Five Business Consulting. Nuestro proyecto se centra en analizar la información recopilada de plataformas de reseñas como Yelp y Google Maps. 
+Somos Data Five Business Consulting. Nuestro proyecto se centra en analizar la información recopilada de plataformas de reseñas como Yelp y Google Maps. 
 
 Nuestro objetivo principal es descubrir patrones y tendencias en las reseñas de los usuarios, con el fin de comprender su experiencia, necesidades y expectativas en relación a los diferentes servicios._
 
-_Este análisis de datos nos permite proporcionar un análisis detallado basado en los datos recopilados, brindando asesoría y recomendaciones a posibles Dueños de Negocios interesados en este proyecto. Esta información resultaría sumamente valiosa para la toma de decisiones estratégicas y para mejorar la imagen y reputación del negocio consultado._
+Este análisis de datos nos permite proporcionar un análisis detallado basado en los datos recopilados, brindando asesoría y recomendaciones a posibles Dueños de Negocios interesados en este proyecto. Esta información resultaría sumamente valiosa para la toma de decisiones estratégicas y para mejorar la imagen y reputación del negocio consultado._
 
 
 ### **Contexto:**
@@ -22,6 +22,7 @@ La proliferación de plataformas de reseñas, como Yelp y Google Maps, ha conver
 ### **Problema a Resolver:**
 
 La empresa enfrenta el desafío de analizar y comprender las opiniones de los usuarios en plataformas clave, Yelp y Google Maps, sobre restaurantes, hoteles y negocios relacionados en el mercado estadounidense. Este análisis debe incluir la predicción de tendencias en diferentes sectores y la identificación de oportunidades y áreas de mejora.
+
 La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural (NLP) para analizar las reseñas de manera efectiva, y la implementación de modelos de machine learning para la clasificación y predicción.
 
 ### **Objetivos:**
@@ -139,7 +140,7 @@ README de GitHub.*
 - [Diccionario de datos]()
 - [Archivo de ETL](https://github.com/FacuSB/PF_Grupal/tree/main/CarpertasETL)
 - [Notebook Modelo de Prediccion](https://github.com/FacuSB/PF_Grupal/tree/main/ModeloML1)
-- [Notebook Exploración de datos para Dashboard]()
+- [Notebook Exploración de datos para Dashboard](https://github.com/FacuSB/PF_Grupal/blob/main/CarpertasETL/EDA_InicilalTrabajo.ipynb)
 
 ## **Autores** 👥🖋️
 
