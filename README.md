@@ -137,7 +137,7 @@ README de GitHub.*
 ## **Documentos adicionales en este proyecto** 📚
 
 - [Informes de Cada Sprint](https://github.com/FacuSB/PF_Grupal/tree/main/Informes%20Sprints)
-- [Diccionario de datos]()
+- [Diccionario de datos](https://github.com/FacuSB/PF_Grupal/blob/main/CarpertasETL/Diccionario_de_Datos%20(1).ipynb)
 - [Archivo de ETL](https://github.com/FacuSB/PF_Grupal/tree/main/CarpertasETL)
 - [Notebook Modelo de Prediccion](https://github.com/FacuSB/PF_Grupal/tree/main/ModeloML1)
 - [Notebook Exploración de datos para Dashboard](https://github.com/FacuSB/PF_Grupal/blob/main/CarpertasETL/EDA_InicilalTrabajo.ipynb)
