@@ -78,7 +78,7 @@ La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural 
 
 **5-** _Visualización y reportes con Google Data Looker conectado desde BigQuery_
 
-<img src="(https://github.com/FacuSB/PF_Grupal/blob/main/images/Pipeline.jpg)" alt="Nuestro Pipeline" width="720" height="360">
+<img src="https://github.com/FacuSB/PF_Grupal/blob/main/images/Pipeline.jpg" alt="Nuestro Pipeline" width="720" height="360">
   
 ### **Diagrama de Gantt**
 <p align='center'>
