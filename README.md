@@ -1,4 +1,4 @@
-<img src="https://github.com/FacuSB/PF_Grupal/blob/main/images/Data_FIve-transformed%20(1).png" width="120" height="82">
+<img src="https://github.com/FacuSB/PF_Grupal/blob/main/images/Data_FIve-transformed%20(1).png" width="200" height="200">
 
 **Consultora de datos**
 
@@ -137,9 +137,8 @@ README de GitHub.*
 
 - [Informes de Cada Sprint](https://github.com/FacuSB/PF_Grupal/tree/main/Informes%20Sprints)
 - [Diccionario de datos]()
-- [Archivo de ETL]()
-- [Notebook Modelo de Prediccion]()
-- [Notebook Modelo de redes Neuronales]()
+- [Archivo de ETL](https://github.com/FacuSB/PF_Grupal/tree/main/CarpertasETL)
+- [Notebook Modelo de Prediccion](https://github.com/FacuSB/PF_Grupal/tree/main/ModeloML1)
 - [Notebook Exploración de datos para Dashboard]()
 
 ## **Autores** 👥🖋️
