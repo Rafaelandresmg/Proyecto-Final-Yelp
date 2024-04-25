@@ -27,9 +27,9 @@ La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural 
 
 ### **Objetivos:**
 
-- *Realizaremos predicciones con el modelo machine learning para la apertura de nuevos locales en ubicaciones estrategicas, asegurando asi un crecimiento efectivo y sostenible del negocio.*
+- *Elaborar predicciones con el modelo machine learning para la apertura de nuevos locales en ubicaciones estrategicas, asegurando asi un crecimiento efectivo y sostenible del negocio.*
 
-- *Implementaremos un modelo de machine learning para impulsar la visibilidad y afluencia en sus locales. Este sistema generará recomendaciones personalizadas, beneficiando a los propietarios al aumentar la clientela y los ingresos.*
+- *Implementar un modelo de machine learning para impulsar la visibilidad y afluencia en sus locales. Este sistema generará recomendaciones personalizadas, beneficiando a los propietarios al aumentar la clientela y los ingresos.*
 
 ### **Alcance:**
 
