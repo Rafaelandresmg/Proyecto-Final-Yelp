@@ -77,7 +77,7 @@ La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural 
 
 **4-** _Modelos de Machine Learning con las librerias de Scikit-learn, Keras y TensorFlow, deployados con la libreria Streamlit_
 
-**5-** _Visualización y reportes con Google Data Looker conectado desde BigQuery_
+**5-** _Visualización y reportes con Power BI conectado desde BigQuery_
 
 
   
