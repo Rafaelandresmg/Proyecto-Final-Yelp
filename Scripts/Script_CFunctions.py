@@ -16,7 +16,7 @@ def cloud_function(cloud_event):
 
 
     project_id = 'proyecto'
-    region = 'us-central1'
+    region = 'region'
 
 
     job_client = dataproc.JobControllerClient(client_options={
