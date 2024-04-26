@@ -10,16 +10,6 @@ from sklearn.metrics import mean_squared_error
 #python -m streamlit run Decisión_Inversion.py
 
 
-#####################################################################################################################################################################################
-#GCP
-# Define tu ID de proyecto de Google Cloud
-project_id_gcp = "tu-proyecto-id"
-
-# Escribe tu consulta SQL
-sql_query = """
-SELECT *
-FROM `nombre-de-tu-proyecto.nombre-del-dataset.nombre-de-la-tabla`
-"""
 
 #####################################################################################################################################################################################
 
@@ -28,61 +18,13 @@ st.title('Modelo de decisión de inversion 📈')
 
 # Permitir al usuario introducir sus propios datos
 ciudadStream = st.selectbox('Seleccione la Ciudad',
-                    ('Boise',
- 'Brentwood',
- 'Carmel',
- 'Cherry Hill',
- 'Clayton',
- 'Clearwater',
- 'Clearwater Beach',
- 'Dunedin',
- 'Edmonton',
- 'Exton',
- 'Fishers',
- 'Franklin',
- 'Goleta',
- 'Goodlettsville',
- 'Hamilton',
- 'Indian Rocks Beach',
- 'Indianapolis',
- 'Jenkintown',
- 'Kirkwood',
- 'Largo',
- 'Levittown',
- 'Lutz',
- 'Maplewood',
- 'Marana',
- 'Media',
- 'Metairie',
- 'Mooresville',
- 'Mount Laurel',
- 'Nashville',
- 'New Hope',
- 'New Orleans',
- 'Norristown',
- 'Oldsmar',
- 'Palm Harbor',
- 'Philadelphia',
- 'Pinellas Park',
- 'Reno',
- 'Saint Louis',
- 'Saint Pete Beach',
- 'Saint Petersburg',
- 'Santa Barbara',
- 'Sicklerville',
- 'Smyrna',
- 'Sparks',
- 'St Louis',
- 'St Petersburg',
- 'St. Louis',
- 'St. Petersburg',
- 'Tampa',
- 'Tucson',
- 'Voorhees',
- 'Wayne',
- 'West Chester',
- 'Wilmington',
- 'Woodbury')
+                    ('Boise','Brentwood','Carmel','Cherry Hill','Clayton','Clearwater','Clearwater Beach',
+ 'Dunedin','Edmonton','Exton','Fishers','Franklin','Goleta','Goodlettsville','Hamilton','Indian Rocks Beach',
+ 'Indianapolis','Jenkintown','Kirkwood','Largo','Levittown','Lutz','Maplewood','Marana','Media','Metairie',
+ 'Mooresville','Mount Laurel','Nashville','New Hope','New Orleans','Norristown','Oldsmar','Palm Harbor',
+ 'Philadelphia','Pinellas Park','Reno','Saint Louis','Saint Pete Beach','Saint Petersburg','Santa Barbara',
+ 'Sicklerville','Smyrna','Sparks','St Louis','St Petersburg','St. Louis','St. Petersburg','Tampa','Tucson',
+ 'Voorhees','Wayne', 'West Chester','Wilmington','Woodbury')
                     )
 
 #####################################################################################################################################################################################
