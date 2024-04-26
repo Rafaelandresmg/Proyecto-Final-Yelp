@@ -58,7 +58,7 @@ La propuesta incluirá el uso de técnicas de Procesamiento de Lenguaje Natural 
 
   [Vista Previa del Tablero](https://github.com/FacuSB/PF_Grupal/blob/main/images/DASHBOARD%20GENERAL.png)
 
-- [Modelos de Machine Learning ](https://pf-grupal-desicion-inversion-nv9i1p.streamlit.app/)
+- [Modelos de Machine Learning ](https://pfgrupal.streamlit.app/)
 
   **Modelo de Machine Learning para predecir el rating futuro de los negocios:** _Desarrollamos un modelo de Machine Learning que utiliza técnicas de análisis de datos para predecir el rating que los negocios obtendrán en el futuro. Proporciona una estimación precisa del rendimiento esperado de un negocio en términos de calificaciones y reseñas._
 
