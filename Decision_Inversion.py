@@ -7,7 +7,7 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_squared_error
 
 #streamlit run Desicion_Inversion.py
-#python -m streamlit run Desicion_Inversion.py
+#python -m streamlit run Decisión_Inversion.py
 
 
 #####################################################################################################################################################################################
@@ -24,7 +24,7 @@ FROM `nombre-de-tu-proyecto.nombre-del-dataset.nombre-de-la-tabla`
 #####################################################################################################################################################################################
 
 # Crear la interfaz de usuario con Streamlit
-st.title('Modelo de desicion de inversion 📈')
+st.title('Modelo de decisión de inversion 📈')
 
 # Permitir al usuario introducir sus propios datos
 ciudadStream = st.selectbox('Seleccione la Ciudad',
