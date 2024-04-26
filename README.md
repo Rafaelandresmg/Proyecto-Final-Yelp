@@ -152,3 +152,13 @@ README de GitHub.*
 - Jose Efrain Pazos, Data Engineer - [@efrainpazos](https://github.com/efrainpazos)
 - Facundo Blanco, Data Engineer - [@FacuSB](https://github.com/FacuSB)
 
+- ## **Clona este repositorio**👍
+
+Conoce nuestro proyecto, clonando el repositorio en tu computador
+
+```bash
+  git clone https://github.com/FacuSB/PF_Grupal
+
+  
+
+
