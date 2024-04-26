@@ -66,3 +66,26 @@ boton = st.button('Predecir')
 if boton :
 # Aca se pone el modelo
     st.title('La predicción del modelo es:')
+    rcol1, rcol2, rcol3 = st.columns(3)
+
+# Colocar una tarjeta en cada columna
+    rcol1.markdown("""
+        <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
+            <h3><code style="color:#e694ff;">Local recomendado 1</code></h3>
+            <p><code style="color:black;">Atributos</code></p>
+        </div>
+    """, unsafe_allow_html=True)
+
+    rcol2.markdown("""
+        <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
+            <h3><code style="color:#e694ff;">Local recomendado 2</code></h3>
+            <p><code style="color:black;">Atributos</code></p>
+        </div>
+    """, unsafe_allow_html=True)
+
+    rcol3.markdown("""
+        <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
+            <h3><code style="color:#e694ff;">Local recomendado 3</code></h3>
+            <p><code style="color:black;">Atributos</code></p>
+        </div>
+    """, unsafe_allow_html=True)
