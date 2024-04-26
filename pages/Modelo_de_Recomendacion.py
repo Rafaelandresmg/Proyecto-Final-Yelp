@@ -21,12 +21,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 UsuarioStream = st.selectbox('Seleccione el usuario',
-                    ('Boise','Brentwood','Carmel','Cherry Hill','Clayton','Clearwater','Clearwater Beach',
- 'Dunedin','Edmonton','Exton','Fishers','Franklin','Goleta','Goodlettsville','Hamilton','Indian Rocks Beach',
- 'Indianapolis','Jenkintown','Kirkwood','Largo','Levittown','Lutz','Maplewood','Marana','Media','Metairie',
- 'Mooresville','Mount Laurel','Nashville','New Hope','New Orleans','Norristown','Oldsmar','Palm Harbor',
- 'Philadelphia','Pinellas Park','Reno','Saint Louis','Saint Pete Beach','Saint Petersburg','Santa Barbara',
- 'Sicklerville','Smyrna','Sparks','St Louis','St Petersburg','St. Louis','St. Petersburg','Tampa','Tucson',
+                    ('','Boise','Brentwood','Carmel','Cherry Hill','Clayton','Clearwater','Clearwater Beach','Dunedin','Edmonton','Exton','Fishers','Franklin','Goleta','Goodlettsville','Hamilton','Indian Rocks Beach',
+ 'Indianapolis','Jenkintown','Kirkwood','Largo','Levittown','Lutz','Maplewood','Marana','Media','Metairie','Mooresville','Mount Laurel','Nashville','New Hope','New Orleans','Norristown','Oldsmar','Palm Harbor',
+ 'Philadelphia','Pinellas Park','Reno','Saint Louis','Saint Pete Beach','Saint Petersburg','Santa Barbara','Sicklerville','Smyrna','Sparks','St Louis','St Petersburg','St. Louis','St. Petersburg','Tampa','Tucson',
  'Voorhees','Wayne', 'West Chester','Wilmington','Woodbury')
                     )
 
@@ -40,25 +37,26 @@ col1, col2, col3 = st.columns(3)
 
 # Colocar una tarjeta en cada columna
 col1.markdown("""
-    <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
-        <h3><code style="color:#e694ff;">Local 1</code></h3>
-        <p><code style="color:black;">Atributos</code></p>
+    <div style="padding:10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius:5px; text-align: center;">
+        <h3><code style="color:black;">Local 1</code></h3>
+        <p><code style="color:black;">Categorias</code></p>
     </div>
 """, unsafe_allow_html=True)
 
 col2.markdown("""
-    <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
-        <h3><code style="color:#e694ff;">Local 2</code></h3>
-        <p><code style="color:black;">Atributos</code></p>
+    <div style="padding:10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius:5px; text-align: center;">
+        <h3><code style="color:black;">Local 2</code></h3>
+        <p><code style="color:black;">Categorias</code></p>
     </div>
 """, unsafe_allow_html=True)
 
 col3.markdown("""
-    <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
-        <h3><code style="color:#e694ff;">Local 3</code></h3>
-        <p><code style="color:black;">Atributos</code></p>
+    <div style="padding:10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius:5px; text-align: center;">
+        <h3><code style="color:black;">Local 3</code></h3>
+        <p><code style="color:black;">Categorias</code></p>
     </div>
 """, unsafe_allow_html=True)
+
 
 st.markdown("""---""")
 
@@ -70,22 +68,22 @@ if boton :
 
 # Colocar una tarjeta en cada columna
     rcol1.markdown("""
-        <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
-            <h3><code style="color:#e694ff;">Local recomendado 1</code></h3>
-            <p><code style="color:black;">Atributos</code></p>
+        <div style="padding:10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius:5px; text-align: center;">
+            <h3><code style="color:black;">Local recomendado 1</code></h3>
+            <p><code style="color:black;">Categorias</code></p>
         </div>
     """, unsafe_allow_html=True)
 
     rcol2.markdown("""
-        <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
-            <h3><code style="color:#e694ff;">Local recomendado 2</code></h3>
-            <p><code style="color:black;">Atributos</code></p>
+        <div style="padding:10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius:5px; text-align: center;">
+            <h3><code style="color:black;">Local recomendado 2</code></h3>
+            <p><code style="color:black;">Categorias</code></p>
         </div>
     """, unsafe_allow_html=True)
 
     rcol3.markdown("""
-        <div style="padding:10px; border:2px solid black; border-radius:5px; text-align: center;">
-            <h3><code style="color:#e694ff;">Local recomendado 3</code></h3>
-            <p><code style="color:black;">Atributos</code></p>
+        <div style="padding:10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius:5px; text-align: center;">
+            <h3><code style="color:black;">Local recomendado 3</code></h3>
+            <p><code style="color:black;">Categorias</code></p>
         </div>
     """, unsafe_allow_html=True)
