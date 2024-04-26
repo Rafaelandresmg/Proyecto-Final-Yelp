@@ -132,7 +132,9 @@ Microsoft Power Point.*
 README de GitHub.*
 
 
-### **Link del video de la carga incremental:** (https://drive.google.com/file/d/1OaeAQXEXTmUm9sdUKOnkpARztwNJzVmP/view)
+### **Link del video de la carga incremental:** 
+
+- [Video](https://drive.google.com/file/d/1OaeAQXEXTmUm9sdUKOnkpARztwNJzVmP/view?usp=sharing)
 
 ## **Documentos adicionales en este proyecto** 📚
 
